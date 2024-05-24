@@ -39,7 +39,7 @@
             border: 0;
             color: #112957;
             font-weight: 500;
-            text-transform: capitalize;
+            text-transform: none;
             border-radius: 0px;
             border-bottom: 2px solid #e9f0f4;
             &::-moz-placeholder {
@@ -67,7 +67,7 @@
             color: #112957;
             font-weight: 300;
             font-size: 16px;
-            text-transform: capitalize;
+            text-transform: none;
             padding-top: 10px;
             border-radius: 0px;
             border-bottom: 2px solid #e9f0f4;
@@ -91,7 +91,7 @@
             background: none;
             font-weight: 500;
             letter-spacing: 2px;
-            text-transform: capitalize;
+            text-transform: none;
             height: 130px;
             width: 100%;
             padding: 30px 21px;
