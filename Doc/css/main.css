@@ -7,6 +7,7 @@ body{
 	color:#777;
 }
 
+
 p{
 	margin:0;
 }
@@ -124,6 +125,9 @@ section p {
 
 
 
+.about-area.section-padding2 {
+    padding-bottom: 5px; /* Ajusta este valor a tus necesidades */
+}
 
 
 .left-nav ul {
@@ -182,6 +186,9 @@ section p {
     padding-left: 18px;
 }
 
+.my-list {
+    padding-left: 40px;
+}
 .author {
     border-bottom: 1px solid #ddd;
     border-top: 1px solid #ddd;
